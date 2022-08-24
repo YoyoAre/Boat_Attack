@@ -2,4 +2,4 @@
 A small game made for a game jam
 
 
-This proyect work with OpenGl, so it needs to be install to compile the code
+This proyect works with OpenGl, so it needs to be install to compile the code
